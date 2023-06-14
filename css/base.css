@@ -1,0 +1,26 @@
+*{
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+.grid{
+    display: flex;
+    height: 100%;
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+
+}
+
+
+
+.active{
+    background-color: rgb(223, 180, 189);
+}
