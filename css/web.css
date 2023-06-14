@@ -33,7 +33,7 @@
 
 
 .header{
-    width: 100%;
+    width: 100vw;
     height: 66px;
     background-color: #404040;
     z-index: 2;
